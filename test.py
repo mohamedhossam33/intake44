@@ -1,3 +1,3 @@
-this is script my script my name is mo
+this is script my script
 
 for iti:
